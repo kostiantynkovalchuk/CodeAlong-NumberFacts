@@ -1,21 +1,23 @@
-# COURSEWORK NAME
+# CodeAlong Number Facts
 
-Replace this readme with the requirements for your coursework
+https://www.youtube.com/watch?v=tUE2Nic21BA
 
 ## Learning Objectives
-- [ ] Use the [Teach Tech Together](https://teachtogether.tech/en/index.html#s:process-objectives) guide to construct your objectives
-- [ ] Limit the objectives to 3-5 items
-- [ ] Write objectives you can measure
+- [ ] Code along with the video
+- [ ] Make an API call to an external, public API
+- [ ] Display the response on the front end
 
 ## Requirements
 
-Explain the requirements of the coursework. You might want to talk about goals here. 
-You might want to use formal specifications like Given/When/Then. It's ok for requirements to be in different formats.
-We want trainees to learn to interpret requirements in many settings and expressions.
+Now that you've learned about APIs and how to connect with them, let's apply it in the context of a complete application.
+In the following assignment, you'll be coding along with somebody as they make an API call to an external, public API.
+
+Don't just watch this video. You must code along for active learning. This will help you to understand what exactly the presenter is doing.
+
+https://www.youtube.com/watch?v=tUE2Nic21BA
 
 ## Acceptance Criteria
 
-- [ ] I have provided clear success criteria
-- [ ] These might be related to the objectives and the requirements
-- [ ] I have given some simple, clear ways for trainees to evaluate their work
-- [ ] I have run Lighthouse and my Accessibility score is 100
+- [ ] I have coded along with the video
+- [ ] My code fetches from the public API and the reponse is displayed by my front end
+- [ ] I have opened a PR with my work 
